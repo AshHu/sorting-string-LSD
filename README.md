@@ -9,3 +9,6 @@ line and ends with one or more white-space-characters. (An end-of-line character
 
 This program is written in c. 
 It handles the strings on a character-by-character basis, one character at a time.
+
+f.txt is sample input file.
+g.txt is sample output file.
